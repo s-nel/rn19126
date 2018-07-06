@@ -7,4 +7,4 @@ run
 react-native run-android
 ```
 
-![Frameloss](https://media.giphy.com/media/BNaESOujp8hrZNLAMf/giphy.gif)
+![Frameloss](/frameloss.gif)
